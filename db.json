@@ -8,7 +8,8 @@
             "revDate": "3/29/2019",
             "language": "English",
             "format": "Naleco Brazil (BR) SDS NBR 14725-4 2012",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010976"
         },
         {
             "documentId": 1010977,
@@ -18,7 +19,8 @@
             "revDate": "3/29/2019",
             "language": "Portuguese",
             "format": "Naleco Brazil (BR) SDS NBR 14725-4 2012",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010977"
         },
         {
             "documentId": 1010978,
@@ -28,7 +30,8 @@
             "revDate": "3/29/2019",
             "language": "French",
             "format": "Naleco Canada (CA) SDS HPR 2015",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010978"
         },
         {
             "documentId": 1010979,
@@ -38,7 +41,8 @@
             "revDate": "3/29/2019",
             "language": "English",
             "format": "Naleco Canada (CA) SDS HPR 2015",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010979"
         },
         {
             "documentId": 1010980,
@@ -48,7 +52,8 @@
             "revDate": "3/29/2019",
             "language": "Danish",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010980"
         },
         {
             "documentId": 1010981,
@@ -58,7 +63,8 @@
             "revDate": "3/29/2019",
             "language": "Dutch",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010981"
         },
         {
             "documentId": 1010982,
@@ -68,7 +74,8 @@
             "revDate": "3/29/2019",
             "language": "English",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010982"
         },
         {
             "documentId": 1010983,
@@ -78,7 +85,8 @@
             "revDate": "3/29/2019",
             "language": "French",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010983"
         },
         {
             "documentId": 1010984,
@@ -88,7 +96,8 @@
             "revDate": "3/29/2019",
             "language": "German",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010984"
         },
         {
             "documentId": 1010985,
@@ -98,7 +107,8 @@
             "revDate": "3/29/2019",
             "language": "Italian",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010985"
         },
         {
             "documentId": 1010986,
@@ -108,7 +118,8 @@
             "revDate": "3/29/2019",
             "language": "Spanish",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010986"
         },
         {
             "documentId": 1010987,
@@ -118,7 +129,8 @@
             "revDate": "3/29/2019",
             "language": "Swedish",
             "format": "Naleco EU SDS 2015/830",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010987"
         },
         {
             "documentId": 1010988,
@@ -128,7 +140,8 @@
             "revDate": "3/29/2019",
             "language": "English",
             "format": "Naleco United States (US) SDS HCS 2012",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1010988"
         },
         {
             "documentId": 1011307,
@@ -138,7 +151,8 @@
             "revDate": "4/8/2019",
             "language": "English",
             "format": "Naleco Australia (AU) SDS WHS",
-            "internalId": ""
+            "internalId": "",
+            "downloadURL": "https://test.com/download/1011307"
         }
     ]
 }
